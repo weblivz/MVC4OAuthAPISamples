@@ -1,7 +1,7 @@
 MVC4OAuthAPISamples
 ===================
 
-Implementations for oAuth against various providers using MVC4.
+Implementations for oAuth against various providers using MVC4. If you only want to sign in then you can work with the default MVC oAuth libraries. If you wish to get other data or make API calls, then you need to DIY.
 
 Existing provider detail and doco are very confusing and many libraries are even more complex and confusing. In short, developers are required to do too much work to make it useful.
 
